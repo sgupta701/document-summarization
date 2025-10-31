@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env/
+.venv
+.vscode/
+*.log
+*.pickle
+*.pkl
+data/
+set up.txt
