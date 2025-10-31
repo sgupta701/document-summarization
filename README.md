@@ -1,11 +1,11 @@
-# 🧠 Single Document Summarizer
+# Single Document Summarizer
 
 A lightweight backend service for generating summaries from **PDF**, **DOCX**, **TXT**, and **image-based documents (OCR)**.  
 Built using **Python**, **Flask**, and **NLP-based summarization**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Extracts text from:
   - PDF (`pdfplumber`, `fitz`)
@@ -37,7 +37,7 @@ single-doc-summarizer/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -77,7 +77,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔗 API Usage
+## API Usage
 
 ### **Endpoint:**
 ```
